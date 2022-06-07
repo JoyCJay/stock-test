@@ -1,0 +1,8 @@
+{
+    "compilerOptions": {
+      "preserveConstEnums": true,
+      "target": "es2017"
+    },
+    "include": ["src/**/*"],
+    "exclude": ["node_modules", "**/*.spec.ts"]
+}
